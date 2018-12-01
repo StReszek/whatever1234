@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+}
+.todo {
+    height: 100vh;
+    background-color: red;
+    flex:1;
+}
+.done {
+    background-color: green;
+    height: 100vh;
+    flex:1;
+}
